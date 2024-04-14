@@ -7,9 +7,9 @@ export default function Navbar(){
     <nav className="nav">
         <a href="/" className="navCadburry">Cadburry</a>
         <ul>
-            <li>
+            {/* <li>
                 <a href="/cast">Cast</a>
-            </li>
+            </li> */}
             <li>
                 <a href="/release-info">Release Info</a>
             </li>

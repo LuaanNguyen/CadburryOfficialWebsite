@@ -11,11 +11,14 @@ const ReleaseInfo = () => {
         <Parallax pages={1}>
             <ParallaxLayer style={{backgroundImage: `url(${lightTestBackground})`, backgroundSize: `cover`}}>
                 <div className='ReleaseInfoTitle'>
-                <h2 style={{color:'white'}}>Release Info</h2>
+                    <center>
+                        <h1 style={{color:'white'}}> Official trailer releasing on 5/17/24 </h1>
+                        <h1 style={{color: 'white'}}>More Info Coming</h1>
+                    </center>
                 </div>
-                <div className='timelineImage'>
+                {/* <div className='timelineImage'>
                 <img src= {testTimeline} alt='Timeline' class="centerImage"/>
-                </div>
+                </div> */}
             </ParallaxLayer>
           </Parallax>
         </>
