@@ -1,4 +1,5 @@
 // import 'src/App.css';
+import './otherStuff.css';
 import {Link} from "react-router-dom";
 import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 import greenNebula from './images/greenNebula.jpg';
@@ -36,10 +37,12 @@ function home() {
             }
           } factor={1.5}>
             <div className='CadburryTitle'>
-            <h2 style={{color:'white', fontFamily: 'newbold'}}>Cadburry</h2>
+              <div className='titleFont'>
+                  <h2 style={{color:'white'}}>Cadburry</h2>
+              </div>
             </div>
             <div className='titleRelease'>  
-            <h2 style={{color:'white'}} className='text-content'> Releasing in Fall 2024</h2>
+              <h2 style={{color:'white'}} className='text-content'> Releasing in Fall 2024</h2>
             </div>
           </ParallaxLayer>
   

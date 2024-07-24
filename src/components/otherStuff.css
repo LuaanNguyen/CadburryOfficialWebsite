@@ -4,3 +4,13 @@
     margin-right: auto;
     width: 50%;
   }
+
+@font-face {
+  font-family: 'NewBold Regular';
+  src: local('NewBold Regular'), url('./fonts/NewBold\ Regular.ttf') format('ttf');
+}
+
+.titleFont{
+  font-family: 'NewBold Regular';
+}
+

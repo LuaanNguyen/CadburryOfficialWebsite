@@ -1,5 +1,6 @@
 
 import './App.css';
+import './components/otherStuff.css'
 import {BrowserRouter, Routes, Route, Navigate} from "react-router-dom";
 import Cast from './components/cast.jsx';
 import Home from './components/home.jsx';
