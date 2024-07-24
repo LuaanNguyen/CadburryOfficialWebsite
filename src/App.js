@@ -10,8 +10,8 @@ import Videos from "./components/videos.jsx";
 function App() {
   return (
     <>
-      <Navbar />
       <BrowserRouter>
+        <Navbar />
         <Routes>
           <Route exact path="/" element={<Home />} />
           <Route path="/cast" element={<Cast />} />
