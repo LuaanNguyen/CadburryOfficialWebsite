@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CadburryOfficialWebsite/static/css/main.4f813ac7.css",
+    "main.js": "/CadburryOfficialWebsite/static/js/main.998bc60f.js",
+    "static/media/greenNebula.jpg": "/CadburryOfficialWebsite/static/media/greenNebula.d3f8819dc783db64ae56.jpg",
+    "static/media/beachDarkBackground.jpg": "/CadburryOfficialWebsite/static/media/beachDarkBackground.25a66c2396d93f66ce97.jpg",
+    "static/media/beachImage.jpg": "/CadburryOfficialWebsite/static/media/beachImage.bf92ee0381cfef225083.jpg",
+    "static/media/betterInstagramIcon.png": "/CadburryOfficialWebsite/static/media/betterInstagramIcon.c9e3e58c428660ce422a.png",
+    "static/media/ContactBackground.jpg": "/CadburryOfficialWebsite/static/media/ContactBackground.df08d23b593ab9a37efc.jpg",
+    "static/media/lightTestBackground.jpeg": "/CadburryOfficialWebsite/static/media/lightTestBackground.0eed9e8ccbc04ab2dfa6.jpeg",
+    "static/media/NewBold Regular.ttf": "/CadburryOfficialWebsite/static/media/NewBold Regular.0b04b2b5e1163e1dcf6c.ttf",
+    "index.html": "/CadburryOfficialWebsite/index.html",
+    "main.4f813ac7.css.map": "/CadburryOfficialWebsite/static/css/main.4f813ac7.css.map",
+    "main.998bc60f.js.map": "/CadburryOfficialWebsite/static/js/main.998bc60f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f813ac7.css",
+    "static/js/main.998bc60f.js"
+  ]
+}
